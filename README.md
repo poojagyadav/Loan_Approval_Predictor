@@ -1,4 +1,4 @@
-# CreditWise Loan Approval Predictor
+# Loan Approval Predictor
 
 This project analyzes loan approval patterns and builds a predictive model to estimate whether a loan application is likely to be approved based on applicant characteristics and financial indicators.
 
